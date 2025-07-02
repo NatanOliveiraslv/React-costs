@@ -1,20 +1,9 @@
 {
   "projects": [
     {
-      "id": "88f9",
-      "name": "teste",
-      "budget": "111",
-      "category": {
-        "id": "1",
-        "name": "infra"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
       "id": "4871",
-      "name": "Novo prjoeto",
-      "budget": "123",
+      "name": "Projeto atualizado",
+      "budget": "5000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
