@@ -1,16 +1,13 @@
-.form_control {
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 1em;
-}
-
-.form_control label {   
-    margin-bottom: 0.5em;
-    font-weight: bold;
-}
-
-.form_control select{
-    padding: .7em;
-    border-radius: 0;
+.btn{
+    background-color: #222;
+    color: #fff;
+    padding: 0.7em 1.2em;
+    text-decoration: none;
+    transition: 0.5s;
+    cursor: pointer;
     border: none;
+}
+
+.btn:hover{
+    color: #ffbb33;
 }
